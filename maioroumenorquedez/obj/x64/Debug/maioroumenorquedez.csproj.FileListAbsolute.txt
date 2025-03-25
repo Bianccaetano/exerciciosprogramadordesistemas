@@ -1,0 +1,10 @@
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\bin\x64\Debug\maioroumenorquedez.exe.config
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\bin\x64\Debug\maioroumenorquedez.exe
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\bin\x64\Debug\maioroumenorquedez.pdb
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.csproj.AssemblyReference.cache
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.frmMaiorOuMenorQueDez.resources
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.Properties.Resources.resources
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.csproj.GenerateResource.cache
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.csproj.CoreCompileInputs.cache
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.exe
+C:\Users\bianca.fcaetano\source\exerciciosdesistema\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.pdb
