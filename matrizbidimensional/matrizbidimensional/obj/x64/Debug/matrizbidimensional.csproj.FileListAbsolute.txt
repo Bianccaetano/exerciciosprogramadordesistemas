@@ -1,0 +1,10 @@
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\bin\x64\Debug\matrizbidimensional.exe.config
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\bin\x64\Debug\matrizbidimensional.exe
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\bin\x64\Debug\matrizbidimensional.pdb
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\obj\x64\Debug\matrizbidimensional.csproj.AssemblyReference.cache
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\obj\x64\Debug\matrizbidimensional.frmMatrizBidimensional.resources
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\obj\x64\Debug\matrizbidimensional.Properties.Resources.resources
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\obj\x64\Debug\matrizbidimensional.csproj.GenerateResource.cache
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\obj\x64\Debug\matrizbidimensional.csproj.CoreCompileInputs.cache
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\obj\x64\Debug\matrizbidimensional.exe
+C:\Users\bianca.fcaetano\source\repos\matrizbidimensional\matrizbidimensional\obj\x64\Debug\matrizbidimensional.pdb
