@@ -1,0 +1,10 @@
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\bin\x64\Debug\calculodedesconto.exe.config
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\bin\x64\Debug\calculodedesconto.exe
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\bin\x64\Debug\calculodedesconto.pdb
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\obj\x64\Debug\calculodedesconto.csproj.AssemblyReference.cache
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\obj\x64\Debug\calculodedesconto.frmCalculodesconto.resources
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\obj\x64\Debug\calculodedesconto.Properties.Resources.resources
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\obj\x64\Debug\calculodedesconto.csproj.GenerateResource.cache
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\obj\x64\Debug\calculodedesconto.csproj.CoreCompileInputs.cache
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\obj\x64\Debug\calculodedesconto.exe
+C:\Users\Caeta\Documents\Visual Studio 2022\exerciciosprogramadordesistemas\calculodesconto\calculodedesconto\obj\x64\Debug\calculodedesconto.pdb
